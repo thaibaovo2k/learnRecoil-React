@@ -1,0 +1,27 @@
+.col {
+    font-size: 20px;
+}
+
+.new {
+    color: orange;
+}
+
+.inprogress {
+    color: red;
+}
+
+.completed {
+    color: green;
+}
+
+input {
+    width: 200px;
+    height: 40px;
+    border: 1px solid #ccc;
+}
+
+button {
+    height: 30px;
+    margin: 0 30px;
+    padding: 8px;
+}
